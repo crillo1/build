@@ -1,0 +1,21 @@
+{
+  "CONTRACT_ADDRESS": "0x58f2FEA3D66025cdEdBc37B5bcd93647d76D7325",
+  "SCAN_LINK": "https://explorer.dogechain.dog/address/0x58f2FEA3D66025cdEdBc37B5bcd93647d76D7325",
+  "NETWORK": {
+    "NAME": "Dogechain",
+    "SYMBOL": "wDOGE",
+    "ID": 2000
+  },
+  "NFT_NAME": "Doge Ape Club",
+  "SYMBOL": "DAC",
+  "MAX_SUPPLY": 10000,
+  "DISPLAY_COST": 25,
+  "GAS_LIMIT": 310000,
+  "MAX_PER_TX": 10,
+  "MARKETPLACE": "Mantra",
+  "MARKETPLACE_LINK": "https://app.withmantra.com/",
+  "Telegram": "https://t.me/dogeapeclub",
+  "Discord": "https://",
+  "Twitter": "https://twitter.com/dogeapeclub",
+  "SHOW_BACKGROUND": false
+}
